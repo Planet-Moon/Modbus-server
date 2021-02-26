@@ -1,5 +1,3 @@
 *.out
-tests
 *.pyc
 **/__pycache__
-.vscode
